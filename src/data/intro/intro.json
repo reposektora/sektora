@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1",
+        "title": "Developing awesome cutting-edge technology ",
+        "desc": "We are tech & development center in Silicon Valley. We develop high tech systems.",
+        "backgroundImage": "/images/hero-image/hero-2.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Focus on team working ",
+        "desc": "We think strategy, craft design, develop digital and create motion.",
+        "backgroundImage": "/images/hero-image/hero-1.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Collaborating with companies",
+        "desc": " We build projects from Silikon Valley to the World and say ''Hello World'' ",
+        "backgroundImage": "/images/hero-image/hero-3.jpg"
+    }
+]

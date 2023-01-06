@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "homeImage": "./images/portfolio/portfolio-1.jpg",
+        "image": "images/project/project-1.jpg",
+        "title": "SmartyData Big Data Project",
+        "date": "28 Jan 2019 - 20 Dec 2022",
+        "client": "https://smartydata.com/en ",
+        "categories": ["cloud", "software"],
+        "excerpt": "Quickly analyzing the digital business landscape, we create effective action plans and design optimal strategies.",
+        "body": ["<p>SmartyData is an e-commerce data analysis program that uses business intelligence and data mining, which is developed by prioritizing needs for e-commerce. With Smartydaya, you can explore all your data unlimitedly.</p>"],
+        "btn": {
+            
+            
+        },
+        "largeImage": "images/project/work-details-1.jpg",
+        "subContent": {
+            "title": "Big Data Project",
+            "text": "SmartyData is an e-commerce data analysis program that uses business intelligence and data mining, which is developed by prioritizing needs for e-commerce. With Smartydaya, you can explore all your data unlimitedly."
+        },
+        "gallery": {
+            "imageOne": "images/project/work-details-2.jpg",
+            "imageTwo": "images/project/work-details-3.jpg",
+            "imageThree": "images/project/work-details-4.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "homeImage": "./images/portfolio/portfolio-2.jpg",
+        "image": "images/project/project-2.jpg",
+        "title": "Payment System Integration",
+        "date": "28 Sep 2020 - 19 Aug 2022",
+        "client": "https://jettycart.com/",
+        "categories": ["finance", "software"],
+        "excerpt": "Integration with many bank and financial services with APIs in one platform.",
+        "body": ["<p>Buyers choose how they want to pay, or Buyers enter credit card information only once in Stripe.Stripe, Jetty Card brand , transfers money Stripe protects credit card information and does not share with merchants.Sellers can transfer their money to banks or they can also keep accounts in their accounts to pay in the country.</p>"],
+        "btn": {
+            
+        },
+        "largeImage": "images/project/work-details-1.jpg",
+        "subContent": {
+            "title": "Payment System Integration",
+            "text": "Accept online payments Use Stripe for domestic and international payments that you can make in multiple currencies, including Turkish Liras. Your receiver does not even need to have a Stripe account.Receive Payments Immediately You can receive payments on your Stripe account instantly and send products you have sold to your customer.Transfer money to your bank or hold your Stripe account to transfer your Receipt money to your bank account or to pay for your online purchases."
+        },
+        "gallery": {
+            "imageOne": "images/project/work-details-2.jpg",
+            "imageTwo": "images/project/work-details-3.jpg",
+            "imageThree": "images/project/work-details-4.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "homeImage": "./images/portfolio/portfolio-3.jpg",
+        "image": "images/project/project-3.jpg",
+        "title": "Marketing platform",
+        "date": "10 Oct 2021 - Present",
+        "client": "https://www.helorobo.com/en",
+        "categories": ["cloud","marketing","software"],
+        "excerpt": "We are here to make your work easier, increase your marketing channels, and have much more personal conversations with your customers and new acquaintances.",
+        "body": ["<p>We want to combine the all-encompassing power of Social Media with your business. We aim to highlight the individual human relationship rather than technology and to bring you together with the person in front of you through the preferred messaging channel. While doing all this, we ensure that you add the power of technology to your workflows as much as possible and prepare your business for a new world.</p>"],
+        "btn": {
+           
+        },
+        "largeImage": "images/project/work-details-1.jpg",
+        "subContent": {
+            "title": "Digital Marketing.",
+            "text": "Marketing has always been about connecting with your audience in the right place and at the right time. Today, that means you need to meet them where they are already spending time: on the internet. A seasoned inbound marketer might say inbound marketing and digital marketing are virtually the same thing, but there are some minor differences. And conversations with marketers and business owners in the U.S., U.K., Asia, Australia, and New Zealand, I've learned a lot about how those small differences are being observed across the world."
+        },
+        "gallery": {
+            "imageOne": "images/project/work-details-2.jpg",
+            "imageTwo": "images/project/work-details-3.jpg",
+            "imageThree": "images/project/work-details-4.jpg"
+        }
+    }
+    
+    
+]
+
+

@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "icon": "images/svg/linea/linea-basic-keyboard.svg",
+        "title": "Development",
+        "desc": "Development with Agile and Testing Methodology",
+        
+        "link": "service"
+    },
+    {
+        "id": "2",
+        "icon": "images/svg/linea/linea-software-layers2.svg",
+        "title": "Architecture",
+        "desc": "Modern Web application architecture",
+        
+        "link": "service"
+    },
+    {
+        "id": "3",
+        "icon": "images/svg/linea/linea-weather-cloud.svg",
+        "title": "Cloud Computing",
+        "desc": "Powerfull provider collaboration   AWS Azure GCP",
+        
+        "link": "service"
+    }
+    
+]

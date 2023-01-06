@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "image": "images/blog/370/blog-1.jpg",
+        "largeImage": "images/blog/770/blog-2.jpg",
+        "author": "Written by Admin",
+        "date": "19 Oct 2022",
+        "view": "1890 views",
+        "categories": ["Marketing", "UX Design"],
+        "title": "A modern approach to implementing the serverless Customer Data Platform",
+        "excerpt": "We have always known the power of digital, and we've mastered the strategy, tactics, and technology to harness it. Now, other departments have had to embrace the digital transformation that businesses have been talking about for so long.",
+        "body":  ["<p><strong>When building a Customer Data Platform (CDP), advertising and marketing Independent Software Vendors (ISVs) face a unique set of challenges. The ISV can help organizations with the heavy lifting required to build, secure, and maintain near real-time, high volume CDPs. However, architecting CDPs using traditional on-premises technologies can introduce multiple complexities and can limit deployment options. One strategy that may address these complexities is to use serverless technologies.</strong></p>", "<p>Even if it is a brave new world for everyone else, for marketers it is another day in the proverbial office.</p>", "<p>Now, the digital evolution is resonating across organizations. The pandemic has shifted internal structures and changed relationships with customers, and as a result marketers have become more valuable than ever.</p>", "<p><strong>The Shift Inside Organizations: Marketers Become Indispensable in a Digital World.</strong></p>", "<p>Marketing has often been known as the department that makes PowerPoints and polishes websites. That was not ever close to the whole truth, of course, but past company structures — in which Marketing always played second fiddle to Sales — allowed that falsehood to persist.</p>", "<p>The pandemic has transformed what the marketing team means to an organization: It is given us agency. It is upended the customer journey. It is redefined how sales and marketing teams should interact. And it is forced businesses to see the value that marketers provide in a digital world.</p>"],
+        "tags": ["App", "Branding", "Development", "Design"]
+    },
+    {
+        "id": 2,
+        "image": "images/blog/370/blog-2.jpg",
+        "largeImage": "images/blog/770/blog-1.jpg",
+        "author": "Written by Admin",
+        "date": "08 July 2022",
+        "view": "708 views",
+        "categories": ["App", "Startup"],
+        "title": "Marketing CDP logical architecture",
+        "excerpt": "The deprecation of digital consumer identifiers, such as third-party cookies and mobile advertising IDs, and the rapid growth of data from expanding consumer touchpoints, has created challenges in identifying, managing, and reaching customers in digital channels. Organizations must rethink their strategies for collecting and storing customer data. Customer Data Platforms (CDPs) collect, aggregate, and organize customer data sources, and create individual centralized customer profiles to better manage and understand customers.",
+        "body":  ["<p><strong>Independent Software Vendors (ISVs) in the advertising and marketing industry vertical can aid many companies in achieving these goals. The ISVs can help organizations with the heavy lifting required to build, secure, govern, and maintain near real-time, high volume CDPs. However, building these types of vendor solutions, that support a large number of customers, data volumes, and use cases, is a complex undertaking with often unforeseen challenges.This post examines the logical architecture of the CDP to provide guidance to help reduce complexity, increase agility, improve operational excellence, and optimize cost. Although the material can benefit advanced marketers evaluating building a CDP, the intent of this post is to provide guidance to those ISVs that are facing these challenges for multiple clients.</p>"],
+        "tags": ["App", "Branding", "Development", "Design"]
+    },
+    {
+        "id": 3,
+        "image": "images/blog/370/blog-3.jpg",
+        "largeImage": "images/blog/770/blog-3.jpg",
+        "author": "Written by Admin",
+        "date": "18 April 2022",
+        "view": "1292 views",
+        "categories": ["UX Design", "Marketing"],
+        "title": "Architecting near real-time personalized recommendations with Amazon Personalize",
+        "excerpt": "Delivering personalized customer experiences enables organizations to improve business outcomes such as acquiring and retaining customers, increasing engagement, driving efficiencies, and improving discoverability. Developing an in-house personalization solution can take a lot of time, which increases the time it takes for your business to launch new features and user experiences.",
+        "body":  ["<p><strong>When building a Customer Data Platform (CDP), advertising and marketing Independent Software Vendors (ISVs) face a unique set of challenges. The ISV can help organizations with the heavy lifting required to build, secure, and maintain near real-time, high volume CDPs. However, architecting CDPs using traditional on-premises technologies can introduce multiple complexities and can limit deployment options. One strategy that may address these complexities is to use serverless technologies.</strong></p>", "<p>Even if it is a brave new world for everyone else, for marketers it is another day in the proverbial office.</p>", "<p>Now, the digital evolution is resonating across organizations. The pandemic has shifted internal structures and changed relationships with customers, and as a result marketers have become more valuable than ever.</p>", "<p><strong>The Shift Inside Organizations: Marketers Become Indispensable in a Digital World.</strong></p>", "<p>Marketing has often been known as the department that makes PowerPoints and polishes websites. That was not ever close to the whole truth, of course, but past company structures — in which Marketing always played second fiddle to Sales — allowed that falsehood to persist.</p>", "<p>The pandemic has transformed what the marketing team means to an organization: It is given us agency. It is upended the customer journey. It is redefined how sales and marketing teams should interact. And it is forced businesses to see the value that marketers provide in a digital world.</p>"],
+        "tags": ["App", "Branding", "Development", "Design"]
+    }
+    
+
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "images/testimonial/90/author-1.png",
+        "desc": "The main purpose of software engineering is to deal with software applications' design, development, testing, and maintenance.These skills are our power.",
+        "name": "Marry Gamble",
+        "position": "Software Developer"
+    },
+    {
+        "id": 2,
+        "image": "images/testimonial/90/author-2.png",
+        "desc": "Successful solutions architects are usually curious, rational, analytical, and methodical—all of which are important traits for this job. The solution architect role also requires being able to project into the future and consider upcoming uses and a path that we succeed with clients.",
+        "name": "Julia Rittenger",
+        "position": "Solution Architect"
+    },
+    {
+        "id": 3,
+        "image": "images/testimonial/90/author-3.png",
+        "desc": "Modern Software Development is known for its fast-paced and innovative nature. Businesses are constantly looking for more convenience, automation of tedious tasks, and more. The high demand for customised, high-quality solutions will continue to drive the need for modern software architectures .",
+        "name": "Johanna Ryan",
+        "position": "DevOps Engineer"
+    },
+    {
+        "id": 4,
+        "image": "images/testimonial/90/author-4.png",
+        "desc": "We are now at a crucial point. Now, more than ever, cloud computing is vital to helping businesses and people deliver on and realize the promise of digital transformation.",
+        "name": "Jane Browa",
+        "position": "Cloud Engineer"
+    }
+]

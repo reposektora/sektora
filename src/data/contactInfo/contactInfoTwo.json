@@ -1,0 +1,20 @@
+[
+    {
+    "id": "1",
+    "icon": "images/svg/linea/linea-basic-map.svg",
+    "title": "Our Locations",
+    "info": " 1 Sansome Street, 35th Floor San Francisco, CA 94104"
+    },
+    {
+    "id": "2",
+    "icon": "images/svg/linea/linea-basic-message-txt.svg",
+    "title": "Give Us A Call",
+    "info": "+1 408 220 33 99"
+    },
+    {
+    "id": "3",
+    "icon": "images/svg/linea/linea-basic-mail-open-text.svg",
+    "title": "Help Desk",
+    "info": "info@sektora.net "
+    }
+]
