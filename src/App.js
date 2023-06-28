@@ -34,8 +34,8 @@ function App() {
           <Suspense fallback={<div />}>
                 <Routes>
                   <Route path={`${process.env.PUBLIC_URL + "/"}`} element={<HomeOne/>}/>
-                  <Route path={`${process.env.PUBLIC_URL + "/home-one"}`} element={<HomeOne/>}/>
-                  <Route path={`${process.env.PUBLIC_URL + "/home-three"}`} element={<HomeOne/>}/>
+                  /*<Route path={`${process.env.PUBLIC_URL + "/home-one"}`} element={<HomeOne/>}/>*/
+                  /*<Route path={`${process.env.PUBLIC_URL + "/home-three"}`} element={<HomeOne/>}/>*/
                   {/* <Route path={`${process.env.PUBLIC_URL + "/home-one"}`} element={<HomeOne/>}/> */}
                   {/* <Route path={`${process.env.PUBLIC_URL + "/home-two"}`} element={<HomeTwo/>}/> */}
                   /*<Route path={`${process.env.PUBLIC_URL + "/home-three"}`} element={<HomeThree/>}/>*/
